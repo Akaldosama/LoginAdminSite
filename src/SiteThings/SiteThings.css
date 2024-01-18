@@ -1,0 +1,32 @@
+#main1 .title_header{
+    font-size: 38px;
+    font-weight: 700;
+    width: 400px;
+}
+#main1 button{
+    background: #FF6464;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+}
+#main1 .parent{
+    margin: 80px 0px;
+}
+
+#main2{
+    background-color: #EDF7FA;
+}
+#main2 .container{
+    padding: 50px 0px;
+}
+#main2 .title{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 600;
+}
+#main2 .parent p{
+    margin: 30px 0px;
+    font-size: 18px;
+    font-weight: normal;
+}
